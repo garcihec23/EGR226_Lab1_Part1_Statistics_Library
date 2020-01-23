@@ -59,7 +59,7 @@ int main(void)
     max = maximum(array, count);                    // Calls the maximum function and assigns it to the variable max
     min = minimum(array, count);                    // Calls the minimum function and assigns it to the variable min
     mean_1 = mean(array, count);                    // Calls the mean function and assigns it to the variable mean_1
-    median_1 = median(array, count);
+    median_1 = median(array, count);                // Calls the median function and assigns it to the variable median_1
     var = variance(array, count);                   // Calls the variance function and assigns it to the variable var
     stand = standard_deviation(array, count);       // Calls the standard deviation function and assigns it to the variable stand
 
